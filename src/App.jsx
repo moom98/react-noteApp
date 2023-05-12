@@ -13,7 +13,7 @@ function App() {
 			content: "新しいノートの内容",
 			modDate: Date.now(),
 		}
-		// setNotes(newNote);
+		setNotes(newNote);
 	};
 
 	return (
